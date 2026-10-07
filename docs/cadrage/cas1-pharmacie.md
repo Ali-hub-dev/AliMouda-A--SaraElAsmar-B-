@@ -35,7 +35,7 @@ Une alerte manquée peut mener à délivrer sur une ordonnance non conforme ; l'
 
 ## Risques éthiques ou de confidentialité (obligatoire)
 
-Données de santé (loi 09-08, RGPD) : ordonnances fictives uniquement, aucun nom de patient, rien d'envoyé à un service externe.
+Données de santé RGPD : ordonnances fictives uniquement, aucun nom de patient, rien d'envoyé à un service externe.
 
 ## Approche écartée et pourquoi (facultatif)
 
